@@ -45,12 +45,12 @@ Follow these steps to set up and run the project on your local environment:
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/your-username/product-api.git
+    git clone https://github.com/FadillMD/restfull-api-product.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd product-api
+    cd restfull-api-product
     ```
 
 3. **Install the project dependencies** using Composer:
