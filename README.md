@@ -37,10 +37,6 @@ The following endpoints are available for interacting with the Product API:
 
 ## Getting Started
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Getting Started
-
 Follow these steps to set up and run the project on your local environment:
 
 1. **Clone this repository**:
